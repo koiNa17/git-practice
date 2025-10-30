@@ -1,8 +1,3 @@
-reated
-by
-Yoshi
-with
-Docker
-+
-Python
-environment.
+# Git Practice Project
+This repository is for learning Git and GitHub basics.
+Created by Yoshi with Docker + Python environment.
