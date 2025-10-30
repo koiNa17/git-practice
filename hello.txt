@@ -1,3 +1,8 @@
 Hello
 Git
 World!
+welcome
+to
+my
+Git
+journey!
