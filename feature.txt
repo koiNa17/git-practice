@@ -1,3 +1,3 @@
 Resolved greeting:
-- Main: differrent greeting
+- Main: different greeting
 - Feature: greeting v2
